@@ -1,0 +1,177 @@
+body{
+  font-family: 'Montserrat';
+}
+#title{
+  background-color: #ff4c68;
+  padding-bottom: 80px;
+
+}
+.navbar-toggler{
+  margin-left: 12.5rem;
+}
+
+h1{
+  font-family: 'Montserrat-bold';
+
+}
+h2{
+  font-family: 'Montserrat-bold';
+  font-size:  3rem;
+  line-height: 1.5;
+}
+h3{
+  font-size: 1.5rem;
+  font-family: 'Montserrat-bold';
+}
+
+.first-h1{
+  margin-bottom: 10%;
+  margin-top: 10%;
+  font-family: 'Montserrat';
+  font-size:300%;
+  line-height: 1.5;
+  color: white;
+}
+
+
+
+.navbar{
+  padding-bottom: 0 0 4.5rem;
+}
+.navbar-items{
+  padding: 0 20px 0 20px;
+
+}
+
+.container-fluid{
+  padding: 3% 15%;
+
+
+}
+.new-btn{
+  margin: 5% 3% 0 5%;
+}
+
+.logo-image{
+  width: 4.375rem;
+}
+
+.iphone{
+
+  margin: 30px auto 10px auto;
+
+  width:300px;
+  height:300px;
+  object-fit:cover;
+  border-radius:50%;
+
+}
+.swallow{
+  width:18.75rem;
+  height:18.75rem;
+  object-fit:cover;
+  border-radius:50%;
+
+}
+
+.Jollof{
+  width:18.75rem;
+  height:18.75rem;
+  object-fit:cover;
+  border-radius:50%;
+}
+
+.card{
+  width:400px;
+  height:450px;
+  object-fit:cover;
+  border-radius:50%;
+  float: left;
+  margin-bottom:  20%;
+}
+#features{
+
+  padding: 7% 10%;
+
+}
+
+
+p{
+  line-height: 1;
+  color: #8f8f8f;
+}
+
+.row{
+ padding: 0 0 10% 0;
+
+}
+.section2{
+  padding-top:  5% ;
+  padding-bottom: 10%;
+
+}
+#testimonials{
+
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+
+}
+.carousel-item {
+  padding: 7% 10%;
+}
+
+.t-img{
+  width:10%;
+  object-fit:cover;
+  border-radius:50%;
+  margin: 20px;
+}
+#press{
+  padding-bottom: 3%;
+  text-align: center;
+  background-color: #ff4c68;
+  color: #fff;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.Download{
+  width: 8%;
+  object-fit:cover;
+  border-radius:50%;
+  margin: 20px;
+}
+.rice{
+  padding-top: 5%;
+  padding-bottom: 10%;
+}
+.menu-img{
+  width:40%;
+  height: 40%;
+  object-fit:cover;
+  border-radius:50%;
+  margin: 20px;
+}
+.menu-b{
+  background-color: #ff4c68;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+#pricing{
+  padding: 7% 10%;
+}
+.h1-f{
+    text-align: center;
+    font-size: 4rem;
+    font-family: "Cormorant Garamond";
+
+    color: #afafaf;
+}
